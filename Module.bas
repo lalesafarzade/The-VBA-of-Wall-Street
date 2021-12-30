@@ -152,7 +152,7 @@ Sub stock_volume()
 
         ws.Cells(2, 17).Value = Format(max_val, "percent")
         ws.Cells(3, 17).Value = Format(min_val, "percent")
-        ws.Cells(4, 17).Value = max_vol
+        ws.Cells(4, 17).Value = Format(max_vol, "Scientific")
         ws.Cells(2, 16).Value = max_tick
         ws.Cells(3, 16).Value = min_tick
         ws.Cells(4, 16).Value = max_vol_tick
