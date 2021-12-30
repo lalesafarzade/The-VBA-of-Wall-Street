@@ -53,4 +53,4 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 ### Copyright
 
-Trilogy Education Services © 2019. All Rights Reserved.
+© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
