@@ -1,13 +1,20 @@
 # The-VBA-of-Wall-Street
 ## Background
 
-You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, you may choose to challenge yourself with a few of the challenge tasks.
 
 ### Stock market analyst
 
 ![stock Market](Images/stockmarket.jpg)
 
 ## Instructions
+
+* After downloading the .bas file and the alphabetical_testing.xlsx :
+* 1. Open the excel file
+* 2. Hold down the ALT + F11 keys to open the Microsoft Visual Basic for Applications window.
+* 3. Click Insert > Module, and paste the following macro in the Module Window.
+
+
+2. Click Insert > Module, and paste the following macro in the Module Window.
 
 * Create a script that will loop through all the stocks for one year and output the following information.
 
