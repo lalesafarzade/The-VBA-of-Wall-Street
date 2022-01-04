@@ -8,7 +8,7 @@
 
 ## Instructions
 
-1.  Download the .bas file and the alphabetical_testing.xlsx 
+1.  Find the .bas file and download the alphabetical_testing.xlsx 
 1. Open the excel file
 2. Hold down the ALT + F11 keys to open the Microsoft Visual Basic for Applications window.
 3. Click Insert > Module
