@@ -21,7 +21,7 @@
 
 ## After running
 
-* The script will loop through all the stocks for one year and output the following information.
+* The script will loop through all the stocks for one year and output will be  the following information.
 
   * The ticker symbol.
 
